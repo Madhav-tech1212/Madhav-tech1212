@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madhav Karthickk I — AI Engineer & Web3 Developer</h1>
+<h1 align="center">Hi 👋, I'm Madhav Karthickk I — Web3 Developer & Community Leader</h1>
 <h3 align="center">Passionate Python Developer | Community Leader | Blockchain Enthusiast</h3>
 
 <p align="center">
