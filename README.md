@@ -16,7 +16,7 @@
 📌 Freelancing on two **Web3 projects**, combining frontend + wallet integration  
 🧑‍🤝‍🧑 Former **Community Manager** of **Chennai Freelancer Club**, hosted 6+ city-wide meetups and led **Global Freelancers Festival 2025** with 25+ volunteers for 3,000+ attendees  
 
-📂 Portfolio: [View Portfolio Website](https://madhav-tech1212.github.io/Portfolio/#home)  
+📂 Portfolio: [View Portfolio Website](https://linktr.ee/madhavkarthickk)  
 📄 Resume: [View My CV](https://madhav-tech1212.github.io/Portfolio/Madhav%20Karthickk%20CV.pdf)  
 ✍️ Articles: [LinkedIn Profile](https://www.linkedin.com/in/madhavkarthickki/)  
 📬 Reach me at: **madhavkarthickk.1212@gmail.com**
