@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Madhav Karthickk I — Web3 Developer & Community Leader</h1>
-<h3 align="center">Passionate Python Developer | Community Leader | Blockchain Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Madhav Karthickk I — MERN stack Developer & Community Leader</h1>
+<h3 align="center">Passionate Full stack developer Developer | Community Leader | Blockchain Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=madhav-tech1212&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-tech1212" />
@@ -7,13 +7,13 @@
 
 ---
 
-🔭 Currently working on **Blockchain** and **AI model optimization**  
+🔭 Currently working on **Freelancing** and **consultation**  
 🌱 Learning **Big Data** technologies and pipelines  
-👯 Open to collaborate on **Dapps** and **Web3 security** projects  
+👯 Open to collaborate on **Business websites** and **internal flow process website** projects  
 🤝 Looking for contributors for experimental **web3** research  
-🧠 Experienced in **Web3 development** with 1.5 years in smart contracts, dApps, and blockchain integration  
+🧠 **2** years of experienced in **Full stack development** with in React, Node, and Nextjs  
 
-📌 Freelancing on two **Web3 projects**, combining frontend + wallet integration  
+📌 Freelancing on 5 **Full stack projects**, combining frontend + Backend + api integration  
 🧑‍🤝‍🧑 Former **Community Manager** of **Chennai Freelancer Club**, hosted 6+ city-wide meetups and led **Global Freelancers Festival 2025** with 25+ volunteers for 3,000+ attendees  
 
 📂 Portfolio: [View Portfolio Website](https://linktr.ee/madhavkarthickk)  
