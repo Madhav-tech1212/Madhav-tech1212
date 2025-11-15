@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madhav Karthickk I — MERN stack Developer & Community Leader</h1>
+<!-- <h1 align="center">Hi 👋, I'm Madhav Karthickk I — MERN stack Developer & Community Leader</h1>
 <h3 align="center">Passionate Full stack developer Developer | Community Leader | Blockchain Enthusiast</h3>
 
 <p align="center">
@@ -51,4 +51,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-</p>
+</p> -->
